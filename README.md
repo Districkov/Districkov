@@ -7,7 +7,7 @@
 - 🔭 Сейчас работаю над **Astra RP** — мультиплеерный проект с real-time синхронизацией
 - 🌱 Изучаю **TypeScript**, **React** и **Svelte**
 - 💬 Спросите меня о **JavaScript, Node.js, REST API, WebSocket, Docker**
-- 📫 Связаться: [Telegram](https://t.me/ваш_ник) · [email](mailto:ваш.email@example.com)
+- 📫 Связаться: [Telegram](https://t.me/@Mortalovich) · [email](mailto:ert34vh@gmail.com)
 
 ---
 
@@ -74,6 +74,6 @@
 
 ### 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ваш.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@Mortalovich)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ert34vh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Districkov-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Districkov)
